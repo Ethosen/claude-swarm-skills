@@ -34,7 +34,7 @@ Not a good fit: tasks with one obvious answer, or quality you can only judge by 
 ## Install
 
 ```bash
-git clone https://github.com/Ethosbtc/claude-swarm-skills
+git clone https://github.com/Ethosen/claude-swarm-skills
 cp -r claude-swarm-skills/skills/* ~/.claude/skills/
 ```
 
